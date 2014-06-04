@@ -1,4 +1,10 @@
 <?php
+/**
+ * This file is meant to be called from the CLI using a single argument, which
+ * is the screen name of the twitter user that we are going to query, e.g.
+ * php twitterUserLookup.php twitterapi
+ * 
+ */
 require_once __DIR__ . '/bootstrap.php';
 
 $configPath = __DIR__ . '/config/config.yml';
