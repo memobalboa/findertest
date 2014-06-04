@@ -1,0 +1,7 @@
+{
+    "require": {
+ 		"j7mbo/twitter-api-php": "dev-master",
+        "symfony/config": "2.6.*@dev",
+        "symfony/yaml": "2.6.*@dev"
+    }
+}

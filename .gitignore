@@ -1,0 +1,4 @@
+vendor/
+composer.phar
+config/config.yml
+.DS_Store
